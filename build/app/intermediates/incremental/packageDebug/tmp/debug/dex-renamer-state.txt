@@ -1,0 +1,4 @@
+#Fri Oct 13 14:36:08 IST 2023
+base.0=/home/isnik/MyData/Android/blog_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
